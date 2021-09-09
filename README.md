@@ -71,3 +71,5 @@ If you have any questions, [search the forums](https://forum.serverless.com?utm_
     </div>
   </div>
 </div>
+
+#LICENSE (c) MIT
