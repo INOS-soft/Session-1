@@ -43,10 +43,10 @@
     ora "^4.0.3"
     pretty-ms "^5.1.0"
 
-"@electron/typescript-definitions@^8.9.4":
-  version "8.9.4"
-  resolved "https://registry.yarnpkg.com/@electron/typescript-definitions/-/typescript-definitions-8.9.4.tgz#ec5c47aad3d45f2da2c40e22536720a9de64c2aa"
-  integrity sha512-KL3ohLe4D5lhJagBEj1Jpoh4BBiJMoCMlc6RSLPT+DaP0odgjEK+Ky6whRDW1cDDpgaSfMisdbN+CdOx3Y7JOg==
+"@electron/typescript-definitions@^8.9.7":
+  version "8.9.7"
+  resolved "https://registry.yarnpkg.com/@electron/typescript-definitions/-/typescript-definitions-8.9.7.tgz#defcb1e5ad99a3cfb0327fb8b9442e520f8576c5"
+  integrity sha512-HVoZXpnylbfTCSaLQWTP5Pd8F2dqSmwXt4WfaliAwAhzUBGudDy7MsYDMFUd2YH7uNgSeGChjN1ugZJ3BB9XLA==
   dependencies:
     "@types/node" "^11.13.7"
     chalk "^2.4.2"
